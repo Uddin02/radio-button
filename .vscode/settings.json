@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.useInlineCompletions": false,
+  "html.format.indentInnerHtml": false,
+  "emmet.showAbbreviationSuggestions": false,
+  "emmet.showSuggestionsAsSnippets": true
+}
